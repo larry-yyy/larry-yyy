@@ -1,108 +1,101 @@
-# 👋 Hi, I'm 杨泽昊 (Yang Zehao)
+# 👋 你好，我是杨泽昊
 
-**Recent Graduate | Aspiring Data Analyst / GIS Engineer / Backend Developer**  
-Passionate about turning data into insights, automating workflows, and building practical geospatial tools.
-
----
-
-## 🎯 About Me
-
-I'm a 2025 graduate from **Huazhong Agricultural University** with a B.Sc. in **Geographic Information Science**. I'm currently strengthening my Python and Excel skills while exploring career opportunities in data analysis, GIS engineering, or backend development.
-
-During my studies and internships, I've developed a solid foundation in spatial data processing, automation scripting, and structured problem-solving. I enjoy writing clean code and using data to tell stories or solve real-world problems—especially in agriculture and environmental domains.
+**应届毕业生 | 目标岗位：数据分析 / GIS工程师 / 后端开发**  
+喜欢用数据解决问题，用代码提升效率，正在持续学习 Python 和 Excel。
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 关于我
 
-**Languages & Tools:**  
-- Python (pandas, NumPy, Matplotlib, basic automation)  
-- Excel (data cleaning, pivot tables, basic analysis)  
-- GIS: ArcGIS, ENVI, spatial data processing  
-- Others: Git, VS Code, Jupyter Notebook, basic SQL  
+我是华中农业大学 2025 届地理信息科学专业的本科毕业生。目前正在系统学习 Python 和 Excel 数据分析技能，同时探索 GIS 工程和后端开发方向。
 
-**Areas of Interest:**  
-- Data pipeline & automation  
-- Geospatial analysis & visualization  
-- Backend development (learning)  
+在校期间和实习中，我积累了不少实际动手的经验：写过自动化脚本、处理过空间数据、也做过政府类的数据治理项目。我习惯用结构化的方式拆解问题，也用长跑练出来的耐力去推进事情——不浮夸，重交付。
 
 ---
 
-## 💼 Work Experience
+## 🛠️ 技术栈
 
-### Walmart Operations (US Marketplace) | Shenzhen Hongjun Technology Co., Ltd.  
-*Mar 2026 – Jun 2026*  
-- Managed daily store operations and product listings on Walmart US, uploading over 5,000 listings across categories like home decor and kitchenware.  
-- Developed and maintained efficient listing workflows and templates to ensure consistency and quality.  
-- **Key achievement:** Wrote Python scripts to automatically classify product data, map multi‑SKU attributes, and populate API fields from ERP exports, improving repetitive task efficiency by ~400%.
-
-### Management Trainee (Rotation) | Shenzhen Zhuohan Materials Technology Co., Ltd.  
-*Sep 2025 – Nov 2025*  
-- Rotated through Quality, Engineering, Sales, and R&D departments, gaining a comprehensive view of manufacturing operations.  
-- Learned quality management tools (e.g., 8D reports), participated in equipment testing, and recorded quality data.  
-- Presented two monthly reports on process analysis and data visualization, well received by colleagues.
-
-### Data Governance Intern | Wuhan Ruide Information Technology Co., Ltd.  
-*Nov 2024 – Dec 2024*  
-- Interpreted land-use types from satellite imagery and field photos, independently classifying 1,800 land parcels (paddy fields, dry land, grassland, etc.) with high accuracy.  
-- Assisted in updating construction land records and maintaining platform data, familiar with standardized government data processing workflows.
+- **语言/工具：** Python（pandas、NumPy、Matplotlib、基础自动化脚本）、Excel（数据清洗、透视表、基础分析）  
+- **GIS/遥感：** ArcGIS、ENVI、空间数据处理  
+- **其他：** Git、VS Code、Jupyter Notebook、SQL（基础）  
+- **兴趣方向：** 数据流程自动化、地理空间分析与可视化、后端开发（学习中）
 
 ---
 
-## 🏆 Featured Project
+## 💼 工作经历
 
-### 📖 Cropland Quality Assessment System (Undergraduate Thesis)  
-*2024 – 2025* | [GitHub Repo](https://github.com/larry-yyy) *(if you have one)*
+### 沃尔玛运营（美国站）｜深圳市弘钧科技有限公司  
+*2026.03 – 2026.06*  
+- 负责沃尔玛美国站店铺日常运营及商品上架，累计上架 5000+ 条 listing，覆盖装饰摆件、厨房用品等非服装类目。  
+- 建立个人上架体系与模板，确保效率与规范并重，熟悉自发货模式下的定价与平台规则。  
+- **核心亮点：** 主动编写 Python 脚本，实现从 ERP 导出商品数据后的自动分类、多 SKU 映射、API 自动填充属性及模板转移，将重复性操作效率提升约 **400%**。
 
-**Title:** *Design and Development of a Cropland Quality Evaluation System*
+### 储备干部（轮岗）｜深圳市卓汉材料技术有限公司  
+*2025.09 – 2025.11*  
+- 两个月内轮岗品质、工程、销售、研发四个部门，系统了解制造业公司运营全链条。  
+- 学习 8D 报告等品质管理工具，参与仪器实操及质量数据记录，理解生产关键质量控制点。  
+- 两次月度汇报均获同事好评，内容涉及工艺流程梳理与数据分析呈现。
 
-- Built a desktop application with Python (around 3,000 lines) to evaluate agricultural land quality based on multiple indicators.  
-- Implemented core grading algorithms, data import/export functions, and a simple GUI.  
-- Packaged the system as an independent executable for practical use.  
-- This project demonstrates my ability to integrate GIS thinking, data processing, and software development to solve real‑world agricultural problems.
-
----
-
-## 📚 Education
-
-**B.Sc. in Geographic Information Science**  
-Huazhong Agricultural University | 2021 – 2025  
-- GPA: 8.12/10.0  
-- Thesis: *Cropland Quality Assessment System* (above)  
-- Relevant coursework: Spatial Analysis, Database Systems, Remote Sensing, Python Programming  
-
-**Certifications:**  
-- CET-4 (College English Test Band 4)  
-- Driver's License (C1)  
-- Mandarin Proficiency (Level 2A)
+### 数据治理实习生｜武汉瑞得信息科技有限责任公司  
+*2024.11 – 2024.12*  
+- 依据卫星影像与“湖北省国土调查云”平台实拍图片，独立完成 1800 条图斑地类判读（水田、旱地、荒草地等），准确率达标。  
+- 协助修改建设用地台账、维护平台数据，熟悉政府类数据项目的标准化处理流程。
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 重点项目
 
-- Advanced Python (data structures, OOP, libraries for data science)  
-- Excel (Power Query, advanced formulas, dashboards)  
-- Backend frameworks (Flask/Django) and database design  
-- Geospatial libraries (GeoPandas, QGIS)
+### 📖 耕地质量等级评价系统（本科毕业论文）  
+*2024 – 2025* | [GitHub 仓库链接]()  
 
----
-
-## 🤝 Let's Connect
-
-- **Email:** 1011864928@qq.com  
-- **Location:** Anyang / Shenzhen (preferred)  
-- **GitHub:** [larry-yyy](https://github.com/larry-yyy)  
-
-I'm open to job opportunities and collaborations in data analysis, GIS, or backend development. Feel free to reach out!
+**题目：**《耕地质量等级评价系统设计与开发》  
+- 使用 Python 开发了一个桌面应用程序（代码量约 3000 行），实现了耕地质量等级评价的核心算法。  
+- 包含数据导入导出、指标计算、等级评定和结果展示等功能模块。  
+- 已将系统打包成独立可执行文件，方便实际应用。  
+- 该项目综合运用了数据处理、逻辑建模和界面开发，体现了我将 GIS 思维与编程能力结合解决农业实际问题的能力。
 
 ---
 
-## ✨ A Little More About Me
+## 📚 教育背景
 
-- 🏃 I'm a long-distance runner (1000m in 2'52", 10+ awards in university sports meets) – endurance and discipline are part of my daily life.  
-- 📚 Avid reader (300+ books, mostly social sciences and literature), awarded "Lifetime Honorary Reader" by HZAU library.  
-- 🧠 I believe in facts, data, and practical solutions – no fluff.
+**地理信息科学 本科**  
+华中农业大学 | 2021 – 2025  
+- GPA：8.12/10.0  
+- 毕业论文：《耕地质量等级评价系统设计与开发》  
+- 相关课程：空间分析、数据库系统、遥感原理、Python 编程  
+
+**证书：**  
+- 大学英语四级（CET-4）  
+- 驾驶证 C1  
+- 普通话二级甲等
 
 ---
 
-*Last updated: July 2026*
+## 🌱 正在学习
+
+- Python 进阶（数据结构、面向对象、数据分析库深度使用）  
+- Excel 高级功能（Power Query、公式、数据看板）  
+- 后端框架（Flask / Django）与数据库设计  
+- 地理空间库（GeoPandas、QGIS）
+
+---
+
+## 🤝 联系我
+
+- **邮箱：** 1011864928@qq.com  
+- **所在地：** 安阳 / 深圳（意向城市）  
+- **GitHub：** [larry-yyy](https://github.com/larry-yyy)  
+
+欢迎对我的项目感兴趣的朋友交流，也期待数据分析、GIS 或后端方向的实习/全职机会。
+
+---
+
+## ✨ 一点补充
+
+- 🏃 长期坚持长跑（1000 米 2 分 52 秒，校运会获奖 10 余次），耐力与自律是我的日常习惯。  
+- 📚 阅读 300+ 本社科/文学书籍，获华中农业大学“终身荣誉读者”称号。  
+- 🧠 信奉用数据和事实说话，拒绝假大空，踏实做事。
+
+---
+
+*最后更新：2026 年 7 月*
